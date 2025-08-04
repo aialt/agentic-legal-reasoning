@@ -1,5 +1,5 @@
 ﻿@[TOC](⚖️ Divide and Enhance - Legal Agent Framework)
-# [英文版说明]A Code Implementation of the "Divide and Enhance" Paper
+# A Code Implementation of the "Divide and Enhance" Paper
 This project provides a reference implementation for the "Divide" component of the paper **《Divide and Enhance: Agentic Legal Reasoning with Domain-Adapted LLMs for Chinese Law》**. It establishes a complete client-server architecture, including a local model deployment service and an intelligent agent application that calls this service.
 
 ## 🚀 Architecture Overview
